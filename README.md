@@ -1,2 +1,2 @@
-# project-landing-pagr
+# project-landing-page
 Primeiro projeto com a DNC
